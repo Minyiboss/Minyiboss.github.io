@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Christian Daniels / Site Title"
+title                    : "Christian Daniels"
 title_separator          : "-"
 name                     : &name "Christian Daniels"
 description              : &description "Junior Computer Science Student at Southern Illinois University Edwardsville"
